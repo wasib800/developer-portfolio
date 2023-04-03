@@ -20,6 +20,16 @@
     font-size: 20px;
 
 }
+.btn-secondary{
+    height: 64px;
+    width: 113px;
+    background: #ee057a;
+    border-radius: 5px;
+    font-weight: 700;
+font-size: 20px;
+border: 0;
+
+}
 
 .header {
     background: #FFF8F3;
